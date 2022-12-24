@@ -1,12 +1,12 @@
 # DesignPatternProjects
  Projects i made for my Software Design and Architecture class.
- It includes: 
- Template Method Pattern,
- Strategy Design Pattern,
- Observer Pattern,
- Decorator Pattern,
- Factory Method Pattern,
- Abstract Factory Pattern,
- Adapter Pattern,
- Facade Pattern and
- SingletonPattern projects completed to deeply comprehend these design patterns.
+ <br>It includes: 
+ <br>Template Method Pattern,
+ <br>Strategy Design Pattern,
+ <br>Observer Pattern,
+ <br>Decorator Pattern,
+ <br>Factory Method Pattern,
+ <br>Abstract Factory Pattern,
+ <br>Adapter Pattern,
+ <br>Facade Pattern and
+ <br>SingletonPattern projects completed to deeply comprehend these design patterns.
